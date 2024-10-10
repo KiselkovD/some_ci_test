@@ -18,7 +18,7 @@ jobs:
 
       - name: Compile main.cpp and test.cpp
         run: |
-          g++ main.cpp test.cpp
+          g++ main main.cpp test.cpp
           
       - name: check files 
         run: ls -l

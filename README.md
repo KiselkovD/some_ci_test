@@ -18,8 +18,9 @@ It's just example of using github ci.
   * test.cpp
 * ci actions script
   * ci.yml
-* text description with Markdown
+* text description with Markdown & png for this
   * README.md
+  * ci_cd.png
 
 ### Git command
 

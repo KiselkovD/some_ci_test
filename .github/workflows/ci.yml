@@ -18,8 +18,7 @@ jobs:
 
       - name: Compile main.cpp and test.cpp
         run: |
-          g++ -o main main.cpp
-          g++ -o test test.cpp
+          g++ main.cpp test.cpp
 
       - name: Run tests
-        run: ./test
+        run: ./main

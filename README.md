@@ -1,6 +1,6 @@
 # some_ci_test
 
-![some png](https://www.it-courses.by/chto-takoe-metodologia-ci-cd-i-zachem-ona-testerovschiky/)
+![some png](https://github.com/KiselkovD/some_ci_test/raw/main/ci_cd.png)
 
 ## About
 

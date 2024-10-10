@@ -16,6 +16,10 @@ jobs:
       - name: Set up g++
         run: sudo apt-get install g++
 
+      - name: check files
+        run: ls -l
+
+
       - name: Compile main.cpp and test.cpp
         run: |
           g++ main.cpp test.cpp

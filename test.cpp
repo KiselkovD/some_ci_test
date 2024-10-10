@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cassert> // для assert
- // Подключаем основной файл
+#include "main.h"
 
 void test_find_sum() {
     std::cout << " txt from test_find_sum " << std::endl;
